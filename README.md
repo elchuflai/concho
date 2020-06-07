@@ -1,7 +1,7 @@
 
 # titulo 1
 actualización de  servicios para la optimización y mejoras de proyecto integrads
-## automatizacione (2h)
+## titulo 2
 sistemas atomatas para la  mejoras de servicios
 
 - [enlaces]([index.html])
@@ -48,7 +48,12 @@ generar tabla
 |titulo 1   |titulo 1   |titulo 1   |
 
 <!-- agrega imagen-->
-![añadiendo imagenes](https://thumbs.dreamstime.com/b/man-programmer-working-computer-code-screen-illustration-writing-pc-testing-ui-ux-guy-laptop-115509734.jpg)
+![añadiendo imagenes](https://thumbs.dreamstime.com/b/man-programmer-working-computer-code-screen-illustration-writing-pc-testing-ui-ux-guy-laptop-115509734.jpg "codigo")
 
+
+ <!---reglas de github-->
+ * [x] tarea 1
+ * [ ] tarea 2
+ * [X] tarea 3
  
-  
+  ### titulo 3
